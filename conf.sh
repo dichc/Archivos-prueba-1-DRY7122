@@ -1,0 +1,6 @@
+chmod +x "$0"
+sudo chown root "$0"
+
+echo "ESTE ARCHIVO HA SIDO CONFIGURADO PARA EJECUTARSE Y SU PROPIEDAD CAMBIADA A ROOT"
+
+
